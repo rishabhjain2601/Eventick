@@ -1,0 +1,18 @@
+[
+    {
+        "id":0,
+        "event_image": "eventpic.jpeg",
+        "venue":"BR Auditorium",
+        "date":"12/08/2023",
+        "time":"12:00 PM",
+        "registration_link":"www.abc.com"
+    },
+    {
+        "id":1,
+        "event_image": "eventpic.jpeg",
+        "venue":"BR Auditorium",
+        "date":"12/08/2023",
+        "time":"12:00 PM",
+        "registration_link":"abc.com"
+    }
+]

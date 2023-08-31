@@ -1,0 +1,37 @@
+.rec.rec-item-wrapper{
+    display: block;
+}
+
+@media only screen and (max-width:768px) {
+    .rec-carousel button{
+        display: none;
+    }
+    .rec .dydPIA{
+        margin: 0px;
+    }
+}
+
+.rec.rec-dot{
+    background-color: white;
+    height: 7px;
+    width: 7px;
+}
+
+.upcoming_carousel .rec-dot{
+    display: none;
+}
+
+/* .main_carousel .rec.rec-carousel button{
+    margin: -90px;
+    z-index: 1;
+    position: relative;
+} */
+
+.rec.rec-dot_active{ 
+    background-color: rgb(255, 72, 0);
+    box-shadow: none;
+    height: 7px;
+    width: 100px;
+    border-radius: 0%;
+    border-radius: 20px;
+}
