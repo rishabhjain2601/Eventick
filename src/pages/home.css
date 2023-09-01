@@ -17,6 +17,10 @@
     width: 7px;
 }
 
+.main-carousel-reg-btn:hover{
+    background: linear-gradient(54deg, #F54109 50%, #F5D00B 100%);
+}
+
 .upcoming_carousel .rec-dot{
     display: none;
 }

@@ -6,7 +6,7 @@ const EventCard = ({event, isSelected=false}) => {
     const navigate = useNavigate()
 
     return(
-        <div onClick={()=>{navigate('/event', {state:{event: event}})}} className={`cursor-pointer max-w-[190px] relative border rounded-xl flex flex-col gap-2 justify-left  ${isSelected?'border-red-700' : 'border-[#FFFFFF26]'}`}>
+        <div onClick={()=>{navigate('/event', {state:{event: event}})}} className={`cursor-pointer w-full relative border rounded-xl flex flex-col gap-2 justify-left  ${isSelected?'border-red-700' : 'border-[#FFFFFF26]'}`}>
             <div className="h-[250px] relative w-full">
                 <img src={event?.event_logo} className="object-cover h-[250px] rounded-none rounded-t-xl"/>
                 <div className="absolute left-2 bottom-2">
