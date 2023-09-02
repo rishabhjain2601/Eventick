@@ -19,7 +19,9 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda, accusamus! Dolores voluptas saepe dolorem quisquam ipsam. Quam quasi debitis, eaque nulla provident, unde perferendis aspernatur, consequatur in maiores nam accusamus quisquam reiciendis sunt? Recusandae quibusdam ex maiores alias, explicabo dicta?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda, accusamus! Dolores voluptas saepe dolorem quisquam ipsam. Quam quasi debitis, eaque nulla provide"}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
+
   },
   {
     "id" : 1,
@@ -41,7 +43,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Academic"
+    "genre" : "Academic",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -63,7 +66,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Cultural"
+    "genre" : "Cultural",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -85,7 +89,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -107,7 +112,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -129,7 +135,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -151,7 +158,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -173,7 +181,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -195,7 +204,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -217,7 +227,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -239,7 +250,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -261,7 +273,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -283,7 +296,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -305,7 +319,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -327,7 +342,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -349,7 +365,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -371,7 +388,8 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   },
   {
     "id" : 1,
@@ -393,6 +411,7 @@
     "team" : "Individual Participation",
     "certificate" : "Yes",
     "refreshments" : "Yes",
-    "genre" : "Hackathon"
+    "genre" : "Hackathon",
+    "schedule": [{"title": "Race", "link": "..", "date": "5 May", "time": "5:00pm", "venue": "Sports Complex", "about": ".."}, {"title": "Chess", "link": "..", "date": "6 May", "time": "6:00pm", "venue": "Sports Complex", "about": ".."}]
   }
 ]

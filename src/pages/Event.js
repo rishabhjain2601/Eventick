@@ -1,19 +1,32 @@
 import React, { useState } from 'react'
 import './event_page.css'
-// import data from '../data/events.json'
+// import event_data from '../data/events.json'
 import { useLocation } from 'react-router-dom';
 import Navbar from '../components/Navbar';
+import Event_days from '../components/Event_days';
 
 function Event_page() {
 
   const location = useLocation()
 
   const data = location.state.event
+  const buttons = data.schedule.map((val, index)=>{
+     return `Day ${index +1}`;
+  })
+
+  const [selectedButton, setSelectedButton] = useState(0);
+
+  const handleButtonClick = (index) => {
+    const abc = buttons.indexOf(index)
+    setSelectedButton(abc);
+  };
+  
 
   const [aboutIsExpanded, setAboutIsExpanded] = useState(false);
+  const [aboutIsExpanded1, setAboutIsExpanded1] = useState(false);
   return (
     <div>
-      <Navbar/>
+      <Navbar />
       <div className="eventpage mt-2">
         <div className="image"><img src={data.event_image} alt="" /></div><br className='br1' />
         <div className="register1">
@@ -24,7 +37,7 @@ function Event_page() {
           <h1>{data.event_name}</h1>
           <div className="graytext">{data.organizer} | {data.mode} </div>
           <hr className='hr1' />
-          <div className='br1'/>
+          <div className='br1' />
 
           <div className="date">
             <div className="startdate"><div>Start Date</div>
@@ -108,7 +121,24 @@ function Event_page() {
           </div>
           {/* <div className="about"><div className='title2'>About </div><div className="graytext">{data.about}</div></div> */}
 
-          <div className='about'><div className='title2'>About </div><div className="graytext"> {aboutIsExpanded ? data.about : data.about?.substring(0, 450)}<span className={`text-yellow-400 cursor-pointer ${data.about?.length < 451 ? 'hidden' : ''}`} onClick={() => { setAboutIsExpanded((aboutIsExpanded) => !aboutIsExpanded) }}>{aboutIsExpanded ? ' ...less' : ' more...'}</span></div></div>
+          <div className='about'>
+            <div className='title2'>About </div>
+            <div className="graytext"> {aboutIsExpanded ? data.about : data.about?.substring(0, 450)}<span className={`text-yellow-400 cursor-pointer ${data.about?.length < 451 ? 'hidden' : ''}`} onClick={() => { setAboutIsExpanded((aboutIsExpanded) => !aboutIsExpanded) }}>{aboutIsExpanded ? ' ...less' : ' more...'}</span>
+            </div>
+            <hr className='hr2' />
+            <div className="my-2">
+              <br />
+              <Event_days buttons={buttons} onButtonClick={handleButtonClick} />
+              <br />
+              <div className='des_bg rounded-md pl-4 py-4'>
+                <a className='float-right mr-[3%] bg-white text-black font-bold px-4 py-1 rounded' href="/">Register</a>
+                <h1 className='text-xl'>{data.schedule[selectedButton].title}</h1>
+                <div className="graytext"> {data.schedule[selectedButton].date} | {data.schedule[selectedButton].time} | {data.schedule[selectedButton].venue} </div>
+                <br />
+                <div className="graytext">{aboutIsExpanded1 ? data.schedule[selectedButton].about : data.schedule[selectedButton].about?.substring(0, 131)}<span className={`text-yellow-400 cursor-pointer ${data.schedule[selectedButton].about?.length < 451 ? 'hidden' : ''}`} onClick={() => { setAboutIsExpanded1((aboutIsExpanded1) => !aboutIsExpanded1) }}>{aboutIsExpanded1 ? ' ...less' : ' more...'}</span></div>
+              </div>
+            </div>
+          </div>
 
           <div className="deadline1">
             <div className="container"><img src="clock.svg" alt="" />
