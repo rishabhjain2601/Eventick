@@ -71,9 +71,9 @@ const Home = () => {
         </div>
 
         {/*4 Genres*/}
-        <div className='w-11/12 mx-auto py-10'>
-          <h3 className='text-white text-lg font-semibold text-left my-3'>Search By Genre</h3>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+        <div className='w-11/12 lg:w-[95%] mx-auto py-10'>
+          <h3 className='text-white text-lg font-semibold text-left my-3 lg:ml-7'>Search By Genre</h3>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 justify-between md:gap-3 justify-items-center">
             <div className='relative cursor-pointer'>
               <img className='' src="/GenreOne.png" />
               <p className='absolute text-white bottom-1 text-center w-full drop-shadow-lg shadow-black'>Cultural Events</p>
