@@ -102,7 +102,7 @@ function Event_page() {
             </div>
           </div>
         </div>
-        <div className='register3'>
+        <div className='register3 fixed bottom-0 bg-stone-950 z-1'>
           <div className="right"><div className="rupee">
             <img src='rupee.svg' alt='' />
           </div> <h4>{data.fee}</h4>  </div>
@@ -130,7 +130,7 @@ function Event_page() {
               <br />
               <Event_days buttons={buttons} onButtonClick={handleButtonClick} />
               <br />
-              <div className='des_bg rounded-md pl-4 py-4'>
+              <div className='des_bg rounded-md pl-4 sm:mb-10 py-4'>
                 <a className='float-right mr-[3%] bg-white text-black font-bold px-4 py-1 rounded' href="/">Register</a>
                 <h1 className='text-xl'>{data.schedule[selectedButton].title}</h1>
                 <div className="graytext"> {data.schedule[selectedButton].date} | {data.schedule[selectedButton].time} | {data.schedule[selectedButton].venue} </div>

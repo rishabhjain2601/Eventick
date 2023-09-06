@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Society from './pages/Society';
 import Societies from './pages/Societies';
 import Event from './pages/Event'
-import Main_slide from './components/Main_slide';
 import Home from './pages/Home';
 import Events from './pages/Events';
 
