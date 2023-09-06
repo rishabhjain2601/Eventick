@@ -3,6 +3,7 @@ import { useLocation } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import EventsCarousel from '../components/EventsCarousel'
 import events from '../data/events.json'
+const SOC_IMG_PATH = '/soc images'
 
 const Society = () => {
 
@@ -34,14 +35,14 @@ const Society = () => {
         <main className="w-full md:w-8/12 flex flex-col gap-7 items-center">
             {/* banner */}
             <div className='w-full h-20 md:h-36'>
-                <img src={society?.banner} className='object-cover w-full h-full md:rounded-2xl'/>
+                <img src={`${SOC_IMG_PATH}/${society?.banner}`} className='object-cover w-full h-full md:rounded-2xl'/>
             </div>
 
             {/* title div */}
             <div className='flex gap-7 w-10/12 md:w-full'>
                 {/* icon */}
                 <div className='h-20 w-20 md:h-36 md:w-36 rounded-full bg-darkGray'>
-                    <img src={society?.logo} className='rounded-full h-full w-full object-cover'/>
+                    <img src={`${SOC_IMG_PATH}/${society?.logo}`} className='rounded-full h-full w-full object-cover'/>
                 </div>
                 {/* title etc*/}
                 <div className='flex flex-col md:w-1/3 md:gap-1'>
