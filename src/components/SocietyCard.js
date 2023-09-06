@@ -1,4 +1,5 @@
 import React from 'react'
+import '../index.css'
 import { useNavigate } from 'react-router-dom'
 const SOC_IMG_PATH = '/soc images'
 
