@@ -21,11 +21,8 @@ const myArrowOrange = ({ type, onClick, isEdge }) =>{
 
 const EventsCarousel = ({events}) => {
   return (
-<<<<<<< HEAD
     <Carousel className='upcoming_carousel'  itemPadding= {[2,6]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
-=======
-    <Carousel className='upcoming_carousel'  itemPadding= {[2,8]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
->>>>>>> 6aafb8d90d1deb61cefc1d107871e101627a8341
+
           {
             events?.map((eventObj, index)=>(
               <EventCard event={eventObj}  key={index}/>
