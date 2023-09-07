@@ -16,7 +16,7 @@ const breakPoints = [
   { width: 300, itemsToShow: 2 },
   { width: 500, itemsToShow: 3 },
   { width: 700, itemsToShow: 4 },
-  { width: 1000, itemsToShow: 4, itemPadding: [2, 20] }
+  { width: 1000, itemsToShow: 4, itemPadding: [2, 10, 0, 20] }
 ]
 
 const EventsCarousel = ({ events }) => {
