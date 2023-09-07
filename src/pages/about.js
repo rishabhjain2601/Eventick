@@ -2,11 +2,15 @@ import React from 'react'
 import "./about.css"
 import bull from "../data/bull (2).png"
 import party from "../data/party.jpg"
+import BottomNavbar from '../components/BottomNavbar'
+import Navbar from '../components/Navbar'
 
 
 export default function about() {
   return (
     <div>
+
+        <Navbar/>
       
         <div className="box1">
             <h2 className='main-heading'>

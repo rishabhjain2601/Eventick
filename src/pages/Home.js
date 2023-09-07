@@ -8,6 +8,7 @@ import societies from '../data/societies.json'
 import EventsCarousel from '../components/EventsCarousel'
 import Navbar from '../components/Navbar'
 import { useNavigate } from 'react-router-dom'
+import BottomNavbar from '../components/BottomNavbar'
 
 const myArrow = ({ type, onClick, isEdge }) => {
   const pointer = type === consts.PREV ? <img src="left-arrow.svg" alt="" /> : <img src="right-arrow.svg" alt="" />
@@ -147,6 +148,8 @@ const Home = () => {
           </Carousel>
         </div>
       </div>
+
+      <BottomNavbar/>
     </div>
   )
 }

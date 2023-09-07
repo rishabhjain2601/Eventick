@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import SocietyCard from '../components/SocietyCard'
 import Navbar from '../components/Navbar'
 import societies from '../data/societies.json'
+import BottomNavbar from '../components/BottomNavbar'
 
 const Societies = () => {
 
@@ -37,6 +38,8 @@ const Societies = () => {
             </div>
 
         </div> 
+
+        <BottomNavbar/>
     </div>   
   )
 }

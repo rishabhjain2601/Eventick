@@ -3,6 +3,7 @@ import SocietyCard from '../components/SocietyCard'
 import Navbar from '../components/Navbar'
 import events from '../data/events.json'
 import EventsPageCard from '../components/EventsPageCard'
+import BottomNavbar from '../components/BottomNavbar'
 
 const Events = () => {
 
@@ -23,6 +24,7 @@ const Events = () => {
             ))}
         </div>
 
+        <BottomNavbar/>
     </div>    
   )
 }

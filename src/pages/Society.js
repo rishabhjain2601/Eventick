@@ -5,6 +5,7 @@ import EventsCarousel from '../components/EventsCarousel'
 import events from '../data/events.json'
 import societyschema from '../data/societiesSchema.json'
 import CouncilCarousel from '../components/CouncilCarousel'
+import BottomNavbar from '../components/BottomNavbar'
 const SOC_IMG_PATH = '/soc images'
 
 const Society = () => {
@@ -125,6 +126,7 @@ const Society = () => {
             <CouncilCarousel councildata={societyschema}/>
         </main>
 
+        <BottomNavbar/>
     </div>
   )
 }
