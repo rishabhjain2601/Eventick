@@ -3,6 +3,8 @@ import { useLocation } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import EventsCarousel from '../components/EventsCarousel'
 import events from '../data/events.json'
+import societyschema from '../data/societiesSchema.json'
+import CouncilCarousel from '../components/CouncilCarousel'
 const SOC_IMG_PATH = '/soc images'
 
 const Society = () => {
@@ -11,7 +13,9 @@ const Society = () => {
     const location = useLocation()
     const society = location?.state?.society //This is passed from the previous page using navigate()
     const [aboutIsExpanded, setAboutIsExpanded] = useState(false)
-
+    // const socdata = societyschema.map((socdata, index)=>(
+    //     socdata = societyschema.council[index]
+    // ))
     // function fetchData(){
     // fetch("/data/events.json")
     // .then(response => response.json())
@@ -118,7 +122,7 @@ const Society = () => {
                 <h3 className='text-white text-left text-lg ml-3 md:ml-14 mb-1'>Past Events</h3>
                 <EventsCarousel events={events}/>
             </div>
-
+            <CouncilCarousel councildata={societyschema}/>
         </main>
 
     </div>
