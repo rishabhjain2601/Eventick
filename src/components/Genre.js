@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react';
 
-function Event_days({buttons,onButtonClick}) {
-    const [selectedButton, setSelectedButton] = useState('Day 1');
+function Genre ({buttons,onButtonClick}){
+    const [selectedButton, setSelectedButton] = useState('All');
 
     const handleButtonClick = (index) => {
         setSelectedButton(index);
@@ -23,4 +23,4 @@ function Event_days({buttons,onButtonClick}) {
     )
 }
 
-export default Event_days
+export default Genre

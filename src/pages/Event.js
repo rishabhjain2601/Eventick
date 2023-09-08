@@ -10,8 +10,8 @@ function Event_page() {
   const location = useLocation()
 
   const data = location.state.event
-  const buttons = data.schedule.map((val, index)=>{
-     return `Day ${index +1}`;
+  const buttons = data.schedule.map((val, index) => {
+    return `Day ${index + 1}`;
   })
 
   const [selectedButton, setSelectedButton] = useState(0);
@@ -20,7 +20,7 @@ function Event_page() {
     const abc = buttons.indexOf(index)
     setSelectedButton(abc);
   };
-  
+
 
   const [aboutIsExpanded, setAboutIsExpanded] = useState(false);
   const [aboutIsExpanded1, setAboutIsExpanded1] = useState(false);
@@ -126,8 +126,8 @@ function Event_page() {
             <div className="graytext"> {aboutIsExpanded ? data.about : data.about?.substring(0, 450)}<span className={`text-yellow-400 cursor-pointer ${data.about?.length < 451 ? 'hidden' : ''}`} onClick={() => { setAboutIsExpanded((aboutIsExpanded) => !aboutIsExpanded) }}>{aboutIsExpanded ? ' ...less' : ' more...'}</span>
             </div>
             <hr className='hr2' />
-            <div className="my-2">
-              <br />
+            <br/>
+            <div className="my-[4%]">
               <Event_days buttons={buttons} onButtonClick={handleButtonClick} />
               <br />
               <div className='des_bg rounded-md pl-4 sm:mb-10 py-4'>
