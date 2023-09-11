@@ -4,17 +4,31 @@ import events from '../data/events.json'
 import EventsPageCard from '../components/EventsPageCard'
 import BottomNavbar from '../components/BottomNavbar'
 import Genre from '../components/Genre'
+import { useSearchParams } from 'react-router-dom'
 
 const Events = () => {
 
     const [selectedGenre, setSelectedGenre] = useState(0)
+    const buttons = ["All", "Cultural Events", "Academics", "Competetions", "Hackathons"]
+    
+
+    const [searchParams] = useSearchParams()
+    const searchParamGenre = searchParams.get("genre")
+
+    useEffect(()=>{
+        if(searchParamGenre){
+            const searchParamGenreUpdated = searchParamGenre.replace("%20", " ");
+            setSelectedGenre(buttons.indexOf(searchParamGenreUpdated))
+        }
+        console.log(searchParamGenre)
+    },[])
+   
 
     const handleButtonClick = (index) => {
         const abc = buttons.indexOf(index)
         setSelectedGenre(abc);
     };
 
-    const buttons = ["All", "Cultural Events", "Academics", "Competetions", "Hackathons"]
     
     const genre = (event) =>{
         return event.genre === `${buttons[selectedGenre]}`

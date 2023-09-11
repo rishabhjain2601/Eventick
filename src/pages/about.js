@@ -4,6 +4,9 @@ import bull from "../data/bull (2).png"
 import party from "../data/party.jpg"
 import BottomNavbar from '../components/BottomNavbar'
 import Navbar from '../components/Navbar'
+import ourTeam from '../data/ourTeam.json'
+import CouncilCard from '../components/CouncilCard'
+
 
 
 export default function about() {
@@ -51,75 +54,20 @@ export default function about() {
         <div></div>
 
         <div className='box3'>
-            <h2 className='heading3'>Our Team</h2>
 
-            <div className='cards'>
-                <div className="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
+            <div className='bg-darkGray pt-3 mb-10 flex flex-col gap-6 items-center'>
+
+                <h1 className='text-white text-center font-bold text-5xl font-roboto tracking-wide'>Our Team</h1>
+
+                <div className='grid gap-7 grid-cols-2 md:grid-cols-4 my-8 mx-3 lg:mx-0'>
+                    {ourTeam?.map((teamMember, index)=>(
+                        <div className='mt-2' key={index} >
+                            <CouncilCard councilMember={teamMember} key={index} />
+                        </div>
+                    ))}
                 </div>
 
-                <div class="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-
-            
-                <div class="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-
-                <div className="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-
-            
-                <div class="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src={party} alt="Avatar"/>
-                    <div class="container">
-                        <h4 className='pcard'><b>John Doe</b></h4>
-                        <p className='pcard'>Architect & Engineer</p>
-                    </div>
-                </div>
-            </div>
+            </div> 
         </div>
 
     </div>

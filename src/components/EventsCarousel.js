@@ -21,7 +21,7 @@ const breakPoints = [
 
 const EventsCarousel = ({ events }) => {
   return (
-    <Carousel className='upcoming_carousel' itemPadding={[2, 10]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
+    <Carousel showEmptySlots className='upcoming_carousel' itemPadding={[2, 10]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
 
       {
         events?.map((eventObj, index) => (

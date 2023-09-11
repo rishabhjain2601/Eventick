@@ -3,7 +3,7 @@ const SOC_IMG_PATH = '/soc images'
 
 const CouncilCard = ({councilMember}) => {
     return (
-        <div>
+        <div className='border border-[#FFFFFF26] rounded-xl'>
             <div className="h-[250px] relative w-full">
                 <img src={`${SOC_IMG_PATH}/${councilMember?.image}`} className="object-cover h-[250px] rounded-none rounded-t-xl" />
             </div>

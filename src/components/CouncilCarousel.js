@@ -19,7 +19,7 @@ const breakPoints = [
 
 const CouncilCarousel = ({councildata}) => {
     return (
-        <Carousel itemPadding={[2, 10]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
+        <Carousel showEmptySlots itemPadding={[2, 10]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
 
             {
                 councildata?.map((councilMember, index) => (
