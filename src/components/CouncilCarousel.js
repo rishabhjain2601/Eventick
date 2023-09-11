@@ -22,8 +22,8 @@ const CouncilCarousel = ({councildata}) => {
         <Carousel itemPadding={[2, 10]} breakPoints={breakPoints} renderArrow={myArrowOrange} >
 
             {
-                councildata?.map((eventObj, index) => (
-                    <CouncilCard council={eventObj.council[index]} key={index} />
+                councildata?.map((councilMember, index) => (
+                    <CouncilCard councilMember={councilMember} key={index} />
                 ))
             }
         </Carousel>

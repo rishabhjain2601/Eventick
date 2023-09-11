@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import EventsCarousel from '../components/EventsCarousel'
 import events from '../data/events.json'
-import societyschema from '../data/societiesSchema.json'
+// import societyschema from '../data/societiesSchema.json'
 import CouncilCarousel from '../components/CouncilCarousel'
 import BottomNavbar from '../components/BottomNavbar'
 const SOC_IMG_PATH = '/soc images'
@@ -123,7 +123,8 @@ const Society = () => {
                 <h3 className='text-white text-left text-lg ml-3 md:ml-14 mb-1'>Past Events</h3>
                 <EventsCarousel events={events}/>
             </div>
-            <CouncilCarousel councildata={societyschema}/>
+            <CouncilCarousel councildata={society?.council}/>
+            {/* <div>{society.council[1].name}</div> */}
         </main>
 
         <BottomNavbar/>

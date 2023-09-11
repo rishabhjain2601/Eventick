@@ -1,543 +1,565 @@
 [
-    {
-      "id": 1,
-      "name": "MADHURIMA",
-      "type": "MUSIC",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Madhurima is a student-led society of Delhi Technological University that aims to\npromote and celebrate music among the student community. Madhurima provides a\nplatform for talented musicians to showcase their skills and explore their passion for\nmusic.\nThe society organizes various events, competitions, and workshops throughout the year\nto encourage participation and foster musical talent. These events include singing\ncompetitions, instrumental competitions, band performances, jam sessions, open mics,\nand more. Madhurima also collaborates with other societies and colleges to host joint\nmusical events and competitions, creating a vibrant and diverse music scene on\ncampus.\nThey also represents DTU in various inter-college cultural festivals and competitions by\nshowcasing our talent. The society has gained recognition and accolades for its\nperformances in the music community of Delhi and has become an integral part of the\nuniversity's cultural fabric.",
-      "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScX1IKBsucz2vnMAR1mx4lgBkJTIMIfBFn2XmRcSX3BEVN2uw/viewform",
-      "linkedin": "https://www.linkedin.com/company/madhurimadtu/",
-      "instagram": "https://www.instagram.com/madhurima.dtu/",
-      "banner": "madhurima_banner.png",
-      "logo": "madhurima_logo.jpg",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " Follow the rules written in the Google form description",
-        "Result will be out on their Instagram handle"
-      ],
-      "council": [
-        {
-          "name": "Anubhav Dhyani",
-          "position": "President",
-          "image": "madhurima_president.png"
-        },
-        {
-          "name": "Daksh Gupta",
-          "position": "One of the Vice President",
-          "image": "madhurima_VP1.png"
-        },
-        {
-          "name": "Sabyasachi Bhattacharjee",
-          "position": "One of the Vice President",
-          "image": "madhurima_VP2.png"
-        },
-        {
-          "name": "Rajat Garg",
-          "position": "Treasurer",
-          "image": "madhurima_Treasurer.png"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "COSMOLOGY",
-      "type": "SPACE AND ASTRONOMICAL",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Cosmology club is the one and only active astronomical society of DTU. We are a close knit\ncommunity of Astrogeeks, Space enthusiasts and all the space lovers. Our club keeps seeking new\nopportunities related to space research activities and hereby encourages college fellows from DTU or\noutside DTU to participate in events organized by different institutes across the World. We also\norganize various exciting events regularly to spread knowledge and try to keep everyone engaged\nwith the study about the space sector. All the enthusiasts can keep themselves updated with the\nlatest Astro-news and upcoming activities from our social media handles.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/cosmologyclub/",
-      "instagram": "https://www.instagram.com/cosmologyclub.dtu/",
-      "banner": "cosmology_banner.png",
-      "logo": "cosmology_logo.jpg",
-      "recruitment_process": [],
-      "council": []
-    },
-    {
-      "id": 3,
-      "name": "DEPTH",
-      "type": "RESEARCH IN PHYSICS",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "DEPTH (Deltech Engineering Physics Technological Hub) is a student society at Delhi Technological University(formerly Delhi College of Engineering). \nWe aim to act as a center of excellence for creating an environment of technological innovation and solving problems using a scientific approach. To provide facilities to delve into educational research in various fields of physics such as nanotechnology, nuclear technology, microwave and optical communications, etc.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/depth-dtu/",
-      "instagram": "https://www.instagram.com/depth_dtu/",
-      "banner": "depth_banner.png",
-      "logo": "depth_logo.jpg",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " Follow the rules written in the Google form description",
-        "Result will be out on their Instagram handle"
-      ],
-      "council": [
-        {
-          "name": "Chainsmokers",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Pink Floyd",
-          "position": "Psychedelics Head",
-          "image": "testcouncil2.jpg"
-        },
-        {
-          "name": "Ice Cube",
-          "position": "Co head",
-          "image": "testcouncil3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "YUVAAN",
-      "type": "FILM AND LITERATURE",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "The official literature and film festival of DTU made an entrance with an astounding first\nedition in 2017. with great aplomb and to a loud applause. The fest emphasized the literary\naspects including but not restricted to writing, reading and observing prose and poetry. Yuvaan'\n18 envisioned fun with literature for everyone and can be safely considered a phenomenal\nsuccess. With a footfall of over 65,000 - the fest had something for everyone: authors, stand up\ncomedians, slam poets and galore! The celebrity list included Durjoy Datta, one of India's best\nselling young adult novelists and an alumnus of DTU, spoken word artists including Diksha Bijlani,\nYahya Bootwala, Simar Singh, Poshak Dua - the brilliant mind reader and magician and the poetic\nNizami Brothers. Embarking with the Kavi Sammelan, we had a potpourri of conventional and\ninnovative formal as well as informal events like debating, poetry slam, quizzing, ad mad, etc.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/yuvaandtu/",
-      "instagram": "https://www.instagram.com/yuvaandtu/",
-      "banner": "yuvaan_banner.png",
-      "logo": "yuvaan_logo.jpg",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " Follow the rules written in the Google form description",
-        "Result will be out on their Instagram handle"
-      ],
-      "council": [
-        {
-          "name": "Mayank Goel",
-          "position": "Director of Creative",
-          "image": "yuvaan_director_of_creative.png"
-        },
-        {
-          "name": "Ansh Ray",
-          "position": "Fest secretory",
-          "image": "yuvaan_fest_secretary.png"
-        },
-        {
-          "name": "Tanmay Garg",
-          "position": "Treasurer",
-          "image": "yuvaan_treasurer.png"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "IEEE",
-      "type": "TECH AND INNOVATION",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Under the invaluable guidance of Dr. J. Panda, IEEE DTU has emerged as one of\nthe most active and innovative student branches in India. IEEE DTU organizes a\nplethora of events around the year such as TECHWEEK, MICROHACK and the annual\ntechnical festival TROIKA to instil a scientific temperament in students and to cater to\n\nthe needs of their inquisitive nature. IEEE DTU is also renowned for its publications-\nECHO, a magazine for freshers, IOTA, the annual technical magazine, TRIGGER, the\n\nTROIKA souvenir, and The Troika Times. In the year 2012, one of the commendable feats\nof IEEE DTU Student Branch was the organizing of ISSET (International Symposium on\nStandards in Engineering & Technology), which provided a platform for student\nresearchers, besides academic and professional experts, to share and exchange their\nideas.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/ieee-dtu/",
-      "instagram": "https://www.instagram.com/ieee.dtu/",
-      "banner": null,
-      "logo": "ieee_logo.jpg",
-      "recruitment_process": [],
-      "council": [
-        {
-          "name": "Hemang Sinha",
-          "position": "Chairperson",
-          "image": "ieee_chairperson.png"
-        },
-        {
-          "name": "Jatin Panday",
-          "position": "Vice-Chairperson",
-          "image": "ieee_vc.png"
-        },
-        {
-          "name": "Priyansh Tyagi",
-          "position": "Treasurer",
-          "image": "ieee_treasurer.png"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": null,
-      "type": null,
-      "member_count": null,
-      "registration_is_open": null,
-      "about": null,
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": null,
-      "banner": null,
-      "logo": null,
-      "recruitment_process": null,
-      "council": null
-    },
-    {
-      "id": 7,
-      "name": "STEP",
-      "type": "SELF DEVELOPMENT AND EMPOWERMENT",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Developed a community whose objective is to maintain happiness and harmony in all circumstances. Through teaching, research, and collaborations with industry professionals and other stakeholders, it will scientifically promote the art of happiness. We will put in place a variety of measures in the areas of well-being, happiness, and spiritual awareness, all of which will contribute to evolution.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A79483721&keywords=step%20dtu&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=4d2bc5c1-07cc-42a2-8f49-ee85ebc6b156&sid=(qr",
-      "instagram": "https://www.instagram.com/step_dtu/",
-      "banner": "Stepdtu_Banner.png",
-      "logo": null,
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "Divyansh khandelwal": "",
-          "position": "President",
-          "image": "Stepdtu_president.png"
-        },
-        {
-          "name": "Chaitanya anand",
-          "position": "Vice President",
-          "image": "Stepdtu_Vicepresident.png"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "PANACHE",
-      "type": "FASION AND DESIGN",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Fashion & Designing Society",
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": "https://www.instagram.com/panachedtu/",
-      "banner": null,
-      "logo": "Panache_logo_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Aishwarya",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Lakshay",
-          "position": "Vice President",
-          "image": "Panache_vicepresident.png"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "TEDX",
-      "type": "GROWTH AND MOTIVATION TALKS",
-      "member_count": null,
-      "registration_is_open": null,
-      "about": "In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that brings people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.\n\nAbout TED \nTED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 25 years ago, TED has grown to support those world-changing ideas with multiple initiatives. The annual TED Conference invites the world's leading thinkers and doers to speak for 18 minutes. Their talks are then made available, free, at TED.com. The annual TED Conference takes place in Long Beach, California, with simulcast in Palm Springs; TEDGlobal is held each year in Oxford, UK. TED's media initiatives include TED.com, where new TEDTalks are posted daily, and the Open Translation Project, which provides subtitles and interactive transcripts as well as the ability for any TEDTalk to be translated by volunteers worldwide. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world are given the opportunity to put their wishes into action; TEDx, which offers individuals or groups a way to organize independent, TED-like events around the world; and the TEDFellows program, helping world-changing innovators from around the globe to become part of the TED community and, with its help, amplify the impact of their remarkable projects and activities.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/tedxdtu/",
-      "instagram": "https://www.instagram.com/tedxdtu/",
-      "banner": "Tedxdtu_banner.png",
-      "logo": "Tedxdtu_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Surya pandey",
-          "position": "President",
-          "image": "Suryapandey_president.png"
-        },
-        {
-          "name": "Nirbhay Nair",
-          "position": "Vice President",
-          "image": "NirbhayNair_vicepresident.png"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "ROTARACT",
-      "type": "SOCIAL WORK",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Rotaract Club of DTU Regency is a student society at Delhi Technological University (formerly Delhi College of Engineering).\n\nRotaract is an international organisation of young professionals and students aged 18 to 30 who are committed to service and leadership in their communities and abroad. Established in 1968 by Rotary International, Rotaract is a global network of young people who are changing the world with clubs in 189 countries.\n\nMission\nThe purpose of Rotaract is to provide an opportunity for young men and women to enhance their knowledge and skills that will assist them in personal development, address the physical and social needs of their communities \nand to promote better relations between all people worldwide through a framework of friendship and service.\n\nThe goals of Rotaract are:\n1. To develop professional and leadership skills;\n2. To emphasise respect for the rights of others, and to promote ethical standards and the dignity of all useful occupations;\n3. To provide opportunities for young people to address the needs and concerns of the community and our world;\n4. To provide opportunities for working in cooperation with sponsoring Rotary Clubs; and\n5. To motivate young people for eventual membership in Rotary.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/rotaractclubdtu/",
-      "instagram": "https://www.instagram.com/rotaractclubdtu/",
-      "banner": null,
-      "logo": "Rotaractclub_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Mrigank Sondhi",
-          "position": "President",
-          "image": "MrigankSondhi_president.png"
-        },
-        {
-          "name": "Mallikasingh",
-          "position": "Vice president",
-          "image": "MallikaSingh_Vicepresidents.png"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "NSS",
-      "type": "SOCIAL SECTOR",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "NSS DTU is the largest student-led organization in the university working in the social sector and aims to bring about a change in society by organizing various events and campaigns pertaining to all aspects of social service. The volunteers commit themselves to the greater good and strive to achieve the best versions of themselves. Awareness regarding the surroundings, identifying social evils pertaining to a region, and formulating and implementing practical ways to tackle them constitute the role of an NSS Volunteer. Both long- and short-term programs in the fields of education, healthcare, road safety, etc., ensure the efficient functioning of NSS as a unit, encouraging teamwork and helping its volunteers grow immensely on a personal level as well.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/national-service-scheme-dtu/",
-      "instagram": "https://www.instagram.com/nssdtu/",
-      "banner": "Nss_banner.png",
-      "logo": "Nss_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Chainsmokers",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Pink Floyd",
-          "position": "Psychedelics Head",
-          "image": "testcouncil2.jpg"
-        },
-        {
-          "name": "Ice Cube",
-          "position": "Co head",
-          "image": "testcouncil3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "ASSETS",
-      "type": "FINANCE AND INVESTMENT",
-      "member_count": null,
-      "registration_is_open": null,
-      "about": "ASSETS DTU is the Finance and Investment Society of Delhi Technological University (Formerly Delhi College of Engineering).\nASSETS DTU aims to nurture financially prudent students and start an investing culture. ASSETS is a society that focuses on imparting a basic understanding of ‘how to manage your money. Our vision is to create the next generation of smart and financially prudent individuals and we are on the path to spread financial literacy.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/assets-dtu/?originalSubdomain=in",
-      "instagram": "https://www.instagram.com/assets_dtu/",
-      "banner": "ASSETS_banner.png",
-      "logo": "ASSETS_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Chainsmokers",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Pink Floyd",
-          "position": "Psychedelics Head",
-          "image": "testcouncil2.jpg"
-        },
-        {
-          "name": "Ice Cube",
-          "position": "Co head",
-          "image": "testcouncil3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "ROUND TABLE",
-      "type": "SKILL DEVELOPMENT",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": "Round Table is the Skill Development Society of Delhi Technological University\n(DTU) formerly known as Delhi College of Engineering (DCE). The society\nhandholds students through this interesting journey winding its way through\ncollege lecture halls and hostel corridors, honing their technical and non-\ntechnical skills and grooming them into fine confident professionals. It fills the\ngap in knowledge and gears them up for their dream jobs. Practical tips that\nthey learn here help create achievers, entrepreneurs and future industry\nleaders. \nA myriad of activities including workshops, internships, creative labs\netc are all designed to propel them in their career trajectory and take them to\nglorious heights.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/round-table-dtu/?originalSubdomain=in",
-      "instagram": "https://www.instagram.com/roundtable_dtu/?hl=en",
-      "banner": null,
-      "logo": "RoundTable_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Chainsmokers",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Pink Floyd",
-          "position": "Psychedelics Head",
-          "image": "testcouncil2.jpg"
-        },
-        {
-          "name": "Ice Cube",
-          "position": "Co head",
-          "image": "testcouncil3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "name": "AIMS",
-      "type": "TECH AND ARTIFICAL INTELLIGENCE",
-      "member_count": null,
-      "registration_is_open": null,
-      "about": "We are proud to introduce ourselves as the official AI and ML society of DTU. With a strong legacy of success, our society has consistently emerged victorious in various prestigious competitions in the domains of AI/ML, robotics, and drones. Notably, our remarkable achievements include winning the Smart India Hackathon 2022.\nAt our core, we are a team of passionate individuals who thrive on taking up challenging projects and actively participating in competitions that push the boundaries of AI/ML and related fields. We embrace a culture of continuous learning and exploration, constantly seeking opportunities to apply our knowledge and skills in practical settings.",
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/aims-dtu/about/",
-      "instagram": "https://www.instagram.com/aimsdtu/",
-      "banner": "AIMS_banner.png",
-      "logo": "AIMS_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Chainsmokers",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Pink Floyd",
-          "position": "Psychedelics Head",
-          "image": "testcouncil2.jpg"
-        },
-        {
-          "name": "Ice Cube",
-          "position": "Co head",
-          "image": "testcouncil3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "REFELCT",
-      "type": "CINEMATOGRAPHY",
-      "member_count": null,
-      "registration_is_open": true,
-      "about": null,
-      "registration_link": null,
-      "linkedin": "https://www.linkedin.com/company/reflectdtu/?originalSubdomain=in",
-      "instagram": "https://www.instagram.com/reflect.dtu/",
-      "banner": "Reflect_banner.png",
-      "logo": "Reflect_logo.png",
-      "recruitment_process": [
-        "Apply through our form in the bio",
-        " participate in the gd",
-        "Attend the interview during the assigned slot"
-      ],
-      "council": [
-        {
-          "name": "Chainsmokers",
-          "position": "President",
-          "image": "testcouncil1.jpg"
-        },
-        {
-          "name": "Pink Floyd",
-          "position": "Psychedelics Head",
-          "image": "testcouncil2.jpg"
-        },
-        {
-          "name": "Ice Cube",
-          "position": "Co head",
-          "image": "testcouncil3.jpg"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "NRITYANGANA",
-      "type": "CLASSICAL DANCE",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": null,
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": "https://www.instagram.com/dtunrityangana/",
-      "banner": null,
-      "logo": null,
-      "recruitment_process": null,
-      "council": null
-    },
-    {
-      "id": 17,
-      "name": "DTU BHANGRA",
-      "type": "FOLK DANCE",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": null,
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": "https://www.instagram.com/dtubhangra/",
-      "banner": null,
-      "logo": null,
-      "recruitment_process": null,
-      "council": null
-    },
-    {
-      "id": 18,
-      "name": "DCG",
-      "type": "CONSULTING",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": null,
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": "https://www.instagram.com/dcg_dtu/",
-      "banner": null,
-      "logo": null,
-      "recruitment_process": null,
-      "council": null
-    },
-    {
-      "id": 19,
-      "name": "DTU SUPERMILEAGE",
-      "type": "TECH TEAM IN AUTOMOBILE",
-      "member_count": null,
-      "registration_is_open": false,
-      "about": null,
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": "https://www.instagram.com/dtusmv/",
-      "banner": null,
-      "logo": null,
-      "recruitment_process": null,
-      "council": null
-    },
-    {
-      "id": 20,
-      "name": "SAHITYA",
-      "type": "LITERARY AND DEBATING",
-      "member_count": null,
-      "registration_is_open": true,
-      "about": null,
-      "registration_link": null,
-      "linkedin": null,
-      "instagram": "https://www.instagram.com/sahitya_dtu/",
-      "banner": null,
-      "logo": null,
-      "recruitment_process": null,
-      "council": null
-    }
-  ]
+  {
+    "id": 1,
+    "name": "MADHURIMA",
+    "type": "MUSIC",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Madhurima is a student-led society of Delhi Technological University that aims to\npromote and celebrate music among the student community. Madhurima provides a\nplatform for talented musicians to showcase their skills and explore their passion for\nmusic.\nThe society organizes various events, competitions, and workshops throughout the year\nto encourage participation and foster musical talent. These events include singing\ncompetitions, instrumental competitions, band performances, jam sessions, open mics,\nand more. Madhurima also collaborates with other societies and colleges to host joint\nmusical events and competitions, creating a vibrant and diverse music scene on\ncampus.\nThey also represents DTU in various inter-college cultural festivals and competitions by\nshowcasing our talent. The society has gained recognition and accolades for its\nperformances in the music community of Delhi and has become an integral part of the\nuniversity's cultural fabric.",
+    "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScX1IKBsucz2vnMAR1mx4lgBkJTIMIfBFn2XmRcSX3BEVN2uw/viewform",
+    "linkedin": "https://www.linkedin.com/company/madhurimadtu/",
+    "instagram": "https://www.instagram.com/madhurima.dtu/",
+    "banner": "/madhurima_banner.png",
+    "logo": "madhurima_logo.jpg",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " Follow the rules written in the Google form description",
+      "Result will be out on their Instagram handle"
+    ],
+    "council": [
+      {
+        "name": "Anubhav Dhyani",
+        "position": "President",
+        "image": "/madhurima_president.png"
+      },
+      {
+        "name": "Daksh Gupta",
+        "position": "One of the Vice President",
+        "image": "/madhurima_VP1.png"
+      },
+      {
+        "name": "Sabyasachi Bhattacharjee",
+        "position": "One of the Vice President",
+        "image": "/madhurima_VP2.png"
+      },
+      {
+        "name": "Rajat Garg",
+        "position": "Treasurer",
+        "image": "/madhurima_Treasurer.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "COSMOLOGY",
+    "type": "SPACE AND ASTRONOMICAL",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Cosmology club is the one and only active astronomical society of DTU. We are a close knit\ncommunity of Astrogeeks, Space enthusiasts and all the space lovers. Our club keeps seeking new\nopportunities related to space research activities and hereby encourages college fellows from DTU or\noutside DTU to participate in events organized by different institutes across the World. We also\norganize various exciting events regularly to spread knowledge and try to keep everyone engaged\nwith the study about the space sector. All the enthusiasts can keep themselves updated with the\nlatest Astro-news and upcoming activities from our social media handles.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/cosmologyclub/",
+    "instagram": "https://www.instagram.com/cosmologyclub.dtu/",
+    "banner": "cosmology_banner.png",
+    "logo": "cosmology_logo.jpg",
+    "recruitment_process": [],
+    "council": []
+  },
+  {
+    "id": 3,
+    "name": "DEPTH",
+    "type": "RESEARCH IN PHYSICS",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "DEPTH (Deltech Engineering Physics Technological Hub) is a student society at Delhi Technological University(formerly Delhi College of Engineering). \nWe aim to act as a center of excellence for creating an environment of technological innovation and solving problems using a scientific approach. To provide facilities to delve into educational research in various fields of physics such as nanotechnology, nuclear technology, microwave and optical communications, etc.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/depth-dtu/",
+    "instagram": "https://www.instagram.com/depth_dtu/",
+    "banner": "depth_banner.png",
+    "logo": "depth_logo.jpg",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " Follow the rules written in the Google form description",
+      "Result will be out on their Instagram handle"
+    ],
+    "council": [
+      {
+        "name": "Chainsmokers",
+        "position": "President",
+        "image": "/testcouncil1.jpg"
+      },
+      {
+        "name": "Pink Floyd",
+        "position": "Psychedelics Head",
+        "image": "/testcouncil2.jpg"
+      },
+      {
+        "name": "Ice Cube",
+        "position": "Co head",
+        "image": "/testcouncil3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "YUVAAN",
+    "type": "FILM AND LITERATURE",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "The official literature and film festival of DTU made an entrance with an astounding first\nedition in 2017. with great aplomb and to a loud applause. The fest emphasized the literary\naspects including but not restricted to writing, reading and observing prose and poetry. Yuvaan'\n18 envisioned fun with literature for everyone and can be safely considered a phenomenal\nsuccess. With a footfall of over 65,000 - the fest had something for everyone: authors, stand up\ncomedians, slam poets and galore! The celebrity list included Durjoy Datta, one of India's best\nselling young adult novelists and an alumnus of DTU, spoken word artists including Diksha Bijlani,\nYahya Bootwala, Simar Singh, Poshak Dua - the brilliant mind reader and magician and the poetic\nNizami Brothers. Embarking with the Kavi Sammelan, we had a potpourri of conventional and\ninnovative formal as well as informal events like debating, poetry slam, quizzing, ad mad, etc.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/yuvaandtu/",
+    "instagram": "https://www.instagram.com/yuvaandtu/",
+    "banner": "yuvaan_banner.png",
+    "logo": "yuvaan_logo.jpg",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " Follow the rules written in the Google form description",
+      "Result will be out on their Instagram handle"
+    ],
+    "council": [
+      {
+        "name": "Mayank Goel",
+        "position": "Director of Creative",
+        "image": "/yuvaan_director_of_creative.png"
+      },
+      {
+        "name": "Ansh Ray",
+        "position": "Fest secretory",
+        "image": "/yuvaan_fest_secretary.png"
+      },
+      {
+        "name": "Tanmay Garg",
+        "position": "Treasurer",
+        "image": "/yuvaan_treasurer.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "IEEE",
+    "type": "TECH AND INNOVATION",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Under the invaluable guidance of Dr. J. Panda, IEEE DTU has emerged as one of\nthe most active and innovative student branches in India. IEEE DTU organizes a\nplethora of events around the year such as TECHWEEK, MICROHACK and the annual\ntechnical festival TROIKA to instil a scientific temperament in students and to cater to\n\nthe needs of their inquisitive nature. IEEE DTU is also renowned for its publications-\nECHO, a magazine for freshers, IOTA, the annual technical magazine, TRIGGER, the\n\nTROIKA souvenir, and The Troika Times. In the year 2012, one of the commendable feats\nof IEEE DTU Student Branch was the organizing of ISSET (International Symposium on\nStandards in Engineering & Technology), which provided a platform for student\nresearchers, besides academic and professional experts, to share and exchange their\nideas.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/ieee-dtu/",
+    "instagram": "https://www.instagram.com/ieee.dtu/",
+    "banner": "",
+    "logo": "ieee_logo.jpg",
+    "recruitment_process": [],
+    "council": [
+      {
+        "name": "Hemang Sinha",
+        "position": "Chairperson",
+        "image": "/ieee_chairperson.png"
+      },
+      {
+        "name": "Jatin Panday",
+        "position": "Vice-Chairperson",
+        "image": "/ieee_vc.png"
+      },
+      {
+        "name": "Priyansh Tyagi",
+        "position": "Treasurer",
+        "image": "/ieee_treasurer.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "STEP",
+    "type": "SELF DEVELOPMENT AND EMPOWERMENT",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Developed a community whose objective is to maintain happiness and harmony in all circumstances. Through teaching, research, and collaborations with industry professionals and other stakeholders, it will scientifically promote the art of happiness. We will put in place a variety of measures in the areas of well-being, happiness, and spiritual awareness, all of which will contribute to evolution.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A79483721&keywords=step%20dtu&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=4d2bc5c1-07cc-42a2-8f49-ee85ebc6b156&sid=(qr",
+    "instagram": "https://www.instagram.com/step_dtu/",
+    "banner": "Stepdtu_Banner.png",
+    "logo": "",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "Divyansh khandelwal": "",
+        "position": "President",
+        "image": "Stepdtu_president.png"
+      },
+      {
+        "name": "Chaitanya anand",
+        "position": "Vice President",
+        "image": "Stepdtu_Vicepresident.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "PANACHE",
+    "type": "FASION AND DESIGN",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Fashion & Designing Society",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "https://www.instagram.com/panachedtu/",
+    "banner": "",
+    "logo": "Panache_logo_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "name": "Aishwarya",
+        "position": "President",
+        "image": "/testcouncil1.jpg"
+      },
+      {
+        "name": "Lakshay",
+        "position": "Vice President",
+        "image": "Panache_vicepresident.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "TEDX",
+    "type": "GROWTH AND MOTIVATION TALKS",
+    "member_count": "",
+    "registration_is_open": true,
+    "about": "In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that brings people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.\n\nAbout TED \nTED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 25 years ago, TED has grown to support those world-changing ideas with multiple initiatives. The annual TED Conference invites the world's leading thinkers and doers to speak for 18 minutes. Their talks are then made available, free, at TED.com. The annual TED Conference takes place in Long Beach, California, with simulcast in Palm Springs; TEDGlobal is held each year in Oxford, UK. TED's media initiatives include TED.com, where new TEDTalks are posted daily, and the Open Translation Project, which provides subtitles and interactive transcripts as well as the ability for any TEDTalk to be translated by volunteers worldwide. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world are given the opportunity to put their wishes into action; TEDx, which offers individuals or groups a way to organize independent, TED-like events around the world; and the TEDFellows program, helping world-changing innovators from around the globe to become part of the TED community and, with its help, amplify the impact of their remarkable projects and activities.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/tedxdtu/",
+    "instagram": "https://www.instagram.com/tedxdtu/",
+    "banner": "Tedxdtu_banner.png",
+    "logo": "Tedxdtu_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "name": "Surya pandey",
+        "position": "President",
+        "image": "Suryapandey_president.png"
+      },
+      {
+        "name": "Nirbhay Nair",
+        "position": "Vice President",
+        "image": "NirbhayNair_vicepresident.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "ROTARACT",
+    "type": "SOCIAL WORK",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Rotaract Club of DTU Regency is a student society at Delhi Technological University (formerly Delhi College of Engineering).\n\nRotaract is an international organisation of young professionals and students aged 18 to 30 who are committed to service and leadership in their communities and abroad. Established in 1968 by Rotary International, Rotaract is a global network of young people who are changing the world with clubs in 189 countries.\n\nMission\nThe purpose of Rotaract is to provide an opportunity for young men and women to enhance their knowledge and skills that will assist them in personal development, address the physical and social needs of their communities \nand to promote better relations between all people worldwide through a framework of friendship and service.\n\nThe goals of Rotaract are:\n1. To develop professional and leadership skills;\n2. To emphasise respect for the rights of others, and to promote ethical standards and the dignity of all useful occupations;\n3. To provide opportunities for young people to address the needs and concerns of the community and our world;\n4. To provide opportunities for working in cooperation with sponsoring Rotary Clubs; and\n5. To motivate young people for eventual membership in Rotary.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/rotaractclubdtu/",
+    "instagram": "https://www.instagram.com/rotaractclubdtu/",
+    "banner": "",
+    "logo": "Rotaractclub_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "name": "Mrigank Sondhi",
+        "position": "President",
+        "image": "MrigankSondhi_president.png"
+      },
+      {
+        "name": "Mallikasingh",
+        "position": "Vice president",
+        "image": "MallikaSingh_Vicepresidents.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "NSS",
+    "type": "SOCIAL SECTOR",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "NSS DTU is the largest student-led organization in the university working in the social sector and aims to bring about a change in society by organizing various events and campaigns pertaining to all aspects of social service. The volunteers commit themselves to the greater good and strive to achieve the best versions of themselves. Awareness regarding the surroundings, identifying social evils pertaining to a region, and formulating and implementing practical ways to tackle them constitute the role of an NSS Volunteer. Both long- and short-term programs in the fields of education, healthcare, road safety, etc., ensure the efficient functioning of NSS as a unit, encouraging teamwork and helping its volunteers grow immensely on a personal level as well.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/national-service-scheme-dtu/",
+    "instagram": "https://www.instagram.com/nssdtu/",
+    "banner": "/Nss_banner.png",
+    "logo": "/Nss_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "name": "Asmita Hooda",
+        "position": "President",
+        "image": "AsmitaHooda_president.png"
+      },
+      {
+        "name": "Shubham Bhatt",
+        "position": "President",
+        "image": "ShubhamBhatt_Vicepresident.png"
+      },
+      {
+        "name": "Nishtha Nangia",
+        "position": "Vice President",
+        "image": "NishthaNangia_Vicepresident.png"
+      },
+      {
+        "name": "Stuti Aggarwal",
+        "position": "Vice President",
+        "image": "StutiAggarwal_vicepresident.png"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "ASSETS",
+    "type": "FINANCE AND INVESTMENT",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "ASSETS DTU is the Finance and Investment Society of Delhi Technological University (Formerly Delhi College of Engineering).\nASSETS DTU aims to nurture financially prudent students and start an investing culture. ASSETS is a society that focuses on imparting a basic understanding of ‘how to manage your money. Our vision is to create the next generation of smart and financially prudent individuals and we are on the path to spread financial literacy.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/assets-dtu/?originalSubdomain=in",
+    "instagram": "https://www.instagram.com/assets_dtu/",
+    "banner": "/ASSETS_banner.png",
+    "logo": "/ASSETS_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": "[{\"name\": \"Krish Aggarwal\", \"position\": \"President\", \"image\": \"/ASSETS_president.png\"},{\"name\": \"Shubh Yadav\", \"position\": \"Vice President\", \"image\": \"/ASSETS_vp.png\"},{\"name\": \"Ankit Goyal\", \"position\": \"General Secretary\", \"image\": \"/ASSETS_gs.png\"},{\"name\": \"Harmandeep Singh\", \"position\": \"General Secretary\", \"image\": \"/ASSETS_gs2.png\"},{\"name\": \"Paarth Sharma\", \"position\": \"Treasurer\", \"image\": \"/ASSETS_tresurer.png\"}"
+  },
+  {
+    "id": 12,
+    "name": "ROUND TABLE",
+    "type": "SKILL DEVELOPMENT",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "Round Table is the Skill Development Society of Delhi Technological University\n(DTU) formerly known as Delhi College of Engineering (DCE). The society\nhandholds students through this interesting journey winding its way through\ncollege lecture halls and hostel corridors, honing their technical and non-\ntechnical skills and grooming them into fine confident professionals. It fills the\ngap in knowledge and gears them up for their dream jobs. Practical tips that\nthey learn here help create achievers, entrepreneurs and future industry\nleaders. \nA myriad of activities including workshops, internships, creative labs\netc are all designed to propel them in their career trajectory and take them to\nglorious heights.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/round-table-dtu/?originalSubdomain=in",
+    "instagram": "https://www.instagram.com/roundtable_dtu/?hl=en",
+    "banner": "",
+    "logo": "/RoundTable_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "name": "Vishu Bansal",
+        "position": "President",
+        "image": "/RoundTable_President.png"
+      },
+      {
+        "name": "Chaitanya Ananad",
+        "position": "Vice President (Tech)",
+        "image": "/RoundTable_vp.png"
+      },
+      {
+        "name": "Anuj Singh",
+        "position": "Vice President (Non Tech)",
+        "image": "/RoundTable_vp(nontech).png"
+      },
+      {
+        "name": "Rishabh Goyal",
+        "position": "General Secretary",
+        "image": "/RoundTable_gs.png"
+      },
+      {
+        "name": "Ashish Chotani",
+        "position": "Treasurer",
+        "image": "/RoundTable_treasurer.png"
+      },
+      {
+        "name": "Adhikarla Vamsi Vishwanath",
+        "position": "Social Media & Outreach",
+        "image": "/RoundTable_socialmedia.png"
+      },
+      {
+        "name": "Vaibhav Pratap Singh",
+        "position": "Head of Events",
+        "image": "/RoundTable_headofevents.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "AIMS",
+    "type": "TECH AND ARTIFICAL INTELLIGENCE",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "We are proud to introduce ourselves as the official AI and ML society of DTU. With a strong legacy of success, our society has consistently emerged victorious in various prestigious competitions in the domains of AI/ML, robotics, and drones. Notably, our remarkable achievements include winning the Smart India Hackathon 2022.\nAt our core, we are a team of passionate individuals who thrive on taking up challenging projects and actively participating in competitions that push the boundaries of AI/ML and related fields. We embrace a culture of continuous learning and exploration, constantly seeking opportunities to apply our knowledge and skills in practical settings.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/aims-dtu/about/",
+    "instagram": "https://www.instagram.com/aimsdtu/",
+    "banner": "/AIMS_banner.png",
+    "logo": "/AIMS_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": [
+      {
+        "name": "Bhavya",
+        "position": "President",
+        "image": ""
+      },
+      {
+        "name": "Parth",
+        "position": "Vice President",
+        "image": "/testcouncil2.jpg"
+      },
+      {
+        "name": "Ice Cube",
+        "position": "Co head",
+        "image": "/testcouncil3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "REFELCT",
+    "type": "CINEMATOGRAPHY",
+    "member_count": "",
+    "registration_is_open": true,
+    "about": "A community of cinematography enthusiasts with an interest in photography, videography, graphic designing, VFX and music production.",
+    "registration_link": "",
+    "linkedin": "https://www.linkedin.com/company/reflectdtu/?originalSubdomain=in",
+    "instagram": "https://www.instagram.com/reflect.dtu/",
+    "banner": "/Reflect_banner.png",
+    "logo": "/Reflect_logo.png",
+    "recruitment_process": [
+      "Apply through our form in the bio",
+      " participate in the gd",
+      "Attend the interview during the assigned slot"
+    ],
+    "council": []
+  },
+  {
+    "id": 15,
+    "name": "NRITYANGANA",
+    "type": "CLASSICAL DANCE",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "https://www.instagram.com/dtunrityangana/",
+    "banner": "/NRITYANGANA_banner.png",
+    "logo": "/NRITYANGANA_logo.png",
+    "recruitment_process": "",
+    "council": []
+  },
+  {
+    "id": 16,
+    "name": "DTU BHANGRA",
+    "type": "FOLK DANCE",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "The sole purpose of DTU Bhangra had been to provide opportunity and instruction for aspiring performers. We encourage, advance, and promote the art of Bhangra dancing (Punjabi folk dance) and Punjabi Culture through various performances and competitions, on and off campus, and through workshops.",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "https://www.instagram.com/dtubhangra/",
+    "banner": "/Bhangra_banner.png",
+    "logo": "/Bhangra_logo.png",
+    "recruitment_process": "",
+    "council": [
+      {
+        "name": "Parth Dua",
+        "position": "President",
+        "image": "/Bhangra_President.png"
+      },
+      {
+        "name": "Yash Verma",
+        "position": "Vice President",
+        "image": "/Bhangra_vicepresident.png"
+      },
+      {
+        "name": "Aayush Singh",
+        "position": "Treasurer",
+        "image": "/Bhangra_Treasurer.png"
+      },
+      {
+        "name": "Daksh Gupta",
+        "position": "PR heah",
+        "image": "/Bhangra_PRhead.png"
+      },
+      {
+        "name": "Varun Chaudhary",
+        "position": "Design Head",
+        "image": "/Bhangra_PRhead.png"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "DCG",
+    "type": "CONSULTING",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "https://www.instagram.com/dcg_dtu/",
+    "banner": "/DCG_banner.png",
+    "logo": "/DCG_logo.png",
+    "recruitment_process": "",
+    "council": []
+  },
+  {
+    "id": 18,
+    "name": "DTU SUPERMILEAGE",
+    "type": "TECH TEAM IN AUTOMOBILE",
+    "member_count": "",
+    "registration_is_open": false,
+    "about": "",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "https://www.instagram.com/dtusmv/",
+    "banner": "/DTUSUPERMILEAGE_banner.png",
+    "logo": "/DTUSUPERMILEAGE_logo.png",
+    "recruitment_process": "",
+    "council": []
+  },
+  {
+    "id": 19,
+    "name": "SAHITYA",
+    "type": "LITERARY AND DEBATING",
+    "member_count": "",
+    "registration_is_open": true,
+    "about": "Sahitya, the Literary and Debating Society, is dedicated to fostering a vibrant culture of open dialogue, critical thought, and eloquent expression within the college community. We believe that through the written and spoken word, we can not only discover deeper truths about the world around us but also empower individuals to become confident, articulate, and informed contributors to society.",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "https://www.instagram.com/sahitya_dtu/",
+    "banner": "/SAHITYA_banner.png",
+    "logo": "/SAHITYA_logo.png",
+    "recruitment_process": [
+      " Online Submission via Google Forms.",
+      ""
+    ],
+    "council": []
+  },
+  {
+    "id": 20,
+    "name": "BIOSOC",
+    "type": "",
+    "member_count": "",
+    "registration_is_open": "",
+    "about": "",
+    "registration_link": "",
+    "linkedin": "",
+    "instagram": "",
+    "banner": "",
+    "logo": "",
+    "recruitment_process": "",
+    "council": ""
+  }
+]

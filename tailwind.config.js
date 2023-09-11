@@ -11,7 +11,7 @@ module.exports = {
         lightestGray: "#ffffff99"
       },
       fontFamily: {
-        roboto: ["Roboto"],
+        notroboto: ["Roboto"],
       }
     },
   },
