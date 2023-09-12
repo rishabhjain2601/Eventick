@@ -9,7 +9,7 @@ import { useSearchParams } from 'react-router-dom'
 const Events = () => {
 
     const [selectedGenre, setSelectedGenre] = useState(0)
-    const buttons = ["All", "Cultural Events", "Academics", "Competetions", "Hackathons"]
+    const buttons = ["All", "Cultural Event", "Academic", "Competition", "Hackathon"]
     
 
     const [searchParams] = useSearchParams()

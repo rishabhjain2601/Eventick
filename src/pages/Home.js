@@ -116,19 +116,19 @@ const Home = () => {
           <h3 className='text-white text-lg font-semibold text-left ml-3 md:ml-14 lg:ml-[5%] mb-1'>Search by genre
             {/* <a className='text-yellow-500 float-right cursor-pointer font-light text-sm mr-[3.2vw] my-2' onClick={() => { navigate('/events') }}>view all</a>*/}</h3> 
             <Carousel className='upcoming_carousel' itemPadding={[10, 10]} breakPoints={genreBreakPoints} renderArrow={myHiddenOrange} >
-            <div onClick={()=>{navigate(`/events?genre=Cultural Events`)}} className='relative w-full  max-w-[235px]  cursor-pointer'>
+            <div onClick={()=>{navigate(`/events?genre=Cultural Event`)}} className='relative w-full  max-w-[235px]  cursor-pointer'>
               <img className='w-full' src="/GenreOne.png" />
               <p className='absolute text-white bottom-1 text-center w-full drop-shadow-lg shadow-black'>Cultural Events</p>
             </div>
-            <div onClick={()=>{navigate(`/events?genre=Academics`)}} className='relative max-w-[235px] cursor-pointer'>
+            <div onClick={()=>{navigate(`/events?genre=Academic`)}} className='relative max-w-[235px] cursor-pointer'>
               <img className='w-full' src="/GenreTwo.png" />
               <p className='absolute text-white bottom-1 text-center w-full drop-shadow-lg shadow-black'>Academics</p>
             </div>
-            <div onClick={()=>{navigate(`/events?genre=Competitions`)}} className='relative max-w-[235px] cursor-pointer'>
+            <div onClick={()=>{navigate(`/events?genre=Competition`)}} className='relative max-w-[235px] cursor-pointer'>
               <img className='w-full' src="/GenreThree.png" />
               <p className='absolute text-white bottom-1 text-center w-full drop-shadow-lg shadow-black'>Competitions</p>
             </div>
-            <div onClick={()=>{navigate(`/events?genre=Hackathons`)}} className='relative max-w-[235px] cursor-pointer'>
+            <div onClick={()=>{navigate(`/events?genre=Hackathon`)}} className='relative max-w-[235px] cursor-pointer'>
               <img className='w-full' src="/GenreFour.png" />
               <p className='absolute text-white bottom-1 text-center w-full drop-shadow-lg shadow-black'>Hackathons</p>
             </div>

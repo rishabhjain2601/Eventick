@@ -1,7 +1,4 @@
 import React from 'react'
-import "./about.css"
-import bull from "../data/bull (2).png"
-import party from "../data/party.jpg"
 import BottomNavbar from '../components/BottomNavbar'
 import Navbar from '../components/Navbar'
 import ourTeam from '../data/ourTeam.json'
@@ -15,45 +12,43 @@ export default function about() {
 
         <Navbar/>
       
-        <div className="box1">
-            <h2 className='main-heading'>
-                We Build bridges between  <span className='span1'>societies and students</span>
-            </h2>
-            <p className='p1'>
-                <span className='span2'>Eventus is a subsidiary of</span> Business Bulls DTU <span className='span3'>which helps to digitalise the hassling process of booking college events and joining college societies</span>
-            </p>
-            <img className='bullpic' src={bull} alt='bull'/>
+        <div className="flex flex-col-reverse md:flex-row justify-between items-center gap-5 md:w-9/12 w-10/12 mx-auto mt-14 mb-7 md:md-0">
+            <div className='flex flex-col font-semibold gap-5 text-lightestGray md:w-[35%]'>
+                <h2 className='text-white text-4xl'>
+                    We Build bridges between  <span className='text-lightestGray'>societies and students</span>
+                </h2>
+                <p className='text-xl font-normal'>
+                    <span className='span2'>Eventus is a subsidiary of</span><span className='text-white'> Business Bulls DTU</span> <span className='span3'>which helps to digitalise the hassling process of booking college events and joining college societies</span>
+                </p>
+            </div>
+            <img className='bullpic' src='/bull-image.png' alt='Business Bulls'/>
 
         </div>
 
-        <div className="box2">
-            <div className='wrapper'>
-                <img className='imgs a' src={party} alt=''/>
-                <img className='imgs b' src={party} alt=''/>
-                <img className='imgs c' src={party} alt=''/>
-                <img className='imgs d' src={party} alt=''/>
-                <img className='imgs e' src={party} alt=''/>
-                <img className='imgs f' src={party} alt=''/>
-                <img className='imgs g' src={party} alt=''/>
-            </div>
-
-            <div className='content2'>
-                <h2 className="heading1">Business Bulls</h2>
-                <p className='para1'>
-                    Business Bulls has gained recognition for its dedication to promoting the growth of promising startups and nurturing the entrepreneurial ecosystem. We have been following your startup's journey with great interest.
-                </p>
-                <p className="para2">
-                    Business Bulls has gained recognition for its dedication to promoting the growth of promising startups and nurturing the entrepreneurial ecosystem. We have been following your startup's journey with great interest.
-                </p>
-                <p className='para3'>
-                    Business Bulls has gained recognition for its dedication to promoting the growth.
-                </p>
+        <div className='bg-white w-full pt-1 pb-12'>
+            <div className="text-lightGray flex flex-col md:flex-row justify-between items-center gap-5 md:gap-10 md:w-9/12 w-10/12 mx-auto mt-14">
+                <div className='md:w-[40%]'>
+                    <img className='object-contain h-full w-full' src='about-grid.png' alt=''/>
+                </div>
+    
+                <div className='md:w-[45%] text-[#0F0F0F99] text-lg flex flex-col gap-5'>
+                    <h2 className="text-4xl text-black">Business Bulls</h2>
+                        <p className=''>
+                            Business Bulls has gained recognition for its dedication to promoting the growth of promising startups and nurturing the entrepreneurial ecosystem. We have been following your startup's journey with great interest.
+                        </p>
+                        <p className="">
+                            Business Bulls has gained recognition for its dedication to promoting the growth of promising startups and nurturing the entrepreneurial ecosystem. We have been following your startup's journey with great interest.
+                        </p>
+                        <p className=''>
+                            Business Bulls has gained recognition for its dedication to promoting the growth.
+                        </p>
+                </div>
             </div>
         </div>
 
         <div></div>
 
-        <div className='box3'>
+        <div className='pt-5'>
 
             <div className='bg-darkGray pt-3 mb-10 flex flex-col gap-6 items-center'>
 
@@ -69,6 +64,8 @@ export default function about() {
 
             </div> 
         </div>
+
+        <BottomNavbar/>
 
     </div>
   
