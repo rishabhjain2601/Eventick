@@ -6,8 +6,8 @@ const Navbar = () => {
     const navigate = useNavigate()
 
     return <div className="flex h-[70px] items-center justify-start md:justify-between text-white bg-[#0f0f0f] w-full">
-        <div className="ml-4 md:ml-[9.4rem] w-[9.4rem] flex items-center justify-start">
-            <img src='/eventick_logo.png' className='cursor-pointer' onClick={()=>{navigate('/')}}/>
+        <div className="ml-4 md:ml-[9.4rem] w-[9.8rem] flex items-center justify-start">
+            <img src='/eventus_logo_main.png' className='cursor-pointer' onClick={()=>{navigate('/')}}/>
         </div>
         <div className="md:flex mr-[9.4rem] gap-12 hidden">
             <div className={`cursor-pointer ${location.pathname==="/"?'text-[#F5D00B]':''}`} onClick={()=>{navigate('/')}}>Home</div>

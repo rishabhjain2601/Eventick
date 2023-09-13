@@ -28,7 +28,7 @@ export default function about() {
         <div className='bg-white w-full pt-1 pb-12'>
             <div className="text-lightGray flex flex-col md:flex-row justify-between items-center gap-5 md:gap-10 md:w-9/12 w-10/12 mx-auto mt-14">
                 <div className='md:w-[40%]'>
-                    <img className='object-contain h-full w-full' src='about-grid.png' alt=''/>
+                    <img className='object-contain h-full w-full' src='Frame 50.png' alt=''/>
                 </div>
     
                 <div className='md:w-[45%] text-[#0F0F0F99] text-lg flex flex-col gap-5'>

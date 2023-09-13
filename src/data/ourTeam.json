@@ -1,27 +1,47 @@
 [
     {
-      "name": "Mayank Goel",
-      "position": "Director of Creative",
-      "image": "/yuvaan_director_of_creative.png"
+      "name": "Ananay Gupta",
+      "position": "President",
+      "image": "ananay.jpg"
     },
     {
-      "name": "Ansh Ray",
-      "position": "Fest secretory",
-      "image": "/yuvaan_fest_secretary.png"
+      "name": "Saksham Sehgal",
+      "position": "Vice President",
+      "image": "saksham.jpg"
     },
     {
-      "name": "Tanmay Garg",
-      "position": "Treasurer",
-      "image": "/yuvaan_treasurer.png"
+      "name": "Shashwat Jain",
+      "position": "Developer",
+      "image": "shashwat.jpg"
     },
     {
-      "name": "Ansh Ray",
-      "position": "Fest secretory",
-      "image": "/yuvaan_fest_secretary.png"
+      "name": "Rishabh Jain",
+      "position": "Developer",
+      "image": "rishabh.jpg"
     },
     {
-      "name": "Tanmay Garg",
-      "position": "Treasurer",
-      "image": "/yuvaan_treasurer.png"
-    }
+      "name": "Siddhant Banger",
+      "position": "Joint Treasurer",
+      "image": "banger.jpg"
+    },
+    {
+        "name": "Aryan",
+        "position": "Secretary",
+        "image": "aryan.jpg"
+      },
+      {
+        "name": "Raghav Khurana",
+        "position": "Executive Member",
+        "image": "raghav.jpg"
+      },
+      {
+        "name": "Tariq",
+        "position": "Joint Secretary",
+        "image": "tariq.jpg"
+      },
+      {
+        "name": "Divya",
+        "position": "Treasurer",
+        "image": "divya.jpg"
+      }
   ]
