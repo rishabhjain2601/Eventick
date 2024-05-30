@@ -5,7 +5,7 @@ const CouncilCard = ({councilMember}) => {
     return (
         <div className='border border-[#FFFFFF26] rounded-xl'>
             <div className="h-[250px] relative w-full">
-                <img src={`${SOC_IMG_PATH}/${councilMember?.image}`} className="object-cover h-[250px] rounded-none rounded-t-xl" />
+                <img src={`${SOC_IMG_PATH}/${councilMember?.image}`} className="object-contain h-[250px] rounded-none rounded-t-xl" />
             </div>
 
             <div className="px-3 pb-3">
