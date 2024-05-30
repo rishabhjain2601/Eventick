@@ -8,7 +8,7 @@ const EventCard = ({event, isSelected=false}) => {
     return(
         <div onClick={()=>{navigate('/event', {state:{event: event}})}} className={`cursor-pointer w-full max-w-[235px] relative border rounded-xl flex flex-col gap-2 justify-left  ${isSelected?'border-red-700' : 'border-[#FFFFFF26]'}`}>
             <div className="h-[270px] relative w-full">
-                <img src={event?.event_logo} className="object-cover h-[270px] rounded-none rounded-t-xl"/>
+                <img src={event?.event_logo} className="object-cover mx-auto h-[270px] rounded-none rounded-t-xl"/>
                 <div className="absolute left-2 bottom-2">
                     <h3 className="text-white drop-shadow-lg shadow-black">{event?.event_name}</h3>
                     <p className="text-[#FFFFFFCC] drop-shadow-lg shadow-black">{event?.organizer?.toLowerCase()}</p>
